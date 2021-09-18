@@ -1,0 +1,4 @@
+total 0
+-rwxrwxrwx 1 user1 user1 49 Sep 17 17:44 README.md
+-rwxrwxrwx 1 user1 user1  0 Sep 17 20:46 file1.txt
+-rwxrwxrwx 1 user1 user1 36 Sep 17 20:29 start.txt
